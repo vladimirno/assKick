@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ass Kick</string>
+    <string name="choose_semester">Choose SEMESTER to view courses</string>
+    <string name="menu_settings">Settings</string>
+    <string name="semester">SEMESTER</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_semester">Semester</string>
+    <string name="start">enter start of semester</string>
+    <string name="end">enter end of semester</string>
+    <string name="courses">Courses</string>
+    <string name="add_course">Add Course</string>
+    <string name="enter_course">Enter Course Name</string>
+    <string name="title_activity_course_intent">CourseIntent</string>
+    <string name="title_activity_date">Date</string>
+
+</resources>

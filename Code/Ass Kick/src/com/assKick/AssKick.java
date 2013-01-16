@@ -19,11 +19,11 @@ public class AssKick extends Activity
 		getActionBar().setDisplayHomeAsUpEnabled(true);
     }
 
-//	@Override
-//    protected void onStart()
-//	{
-//		File file = new File(Context.getFilesDir(), filename);
-//	}
+	@Override
+    protected void onStart()
+	{
+		File file = new File(Context.getFilesDir(), filename);
+	}
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) 
@@ -32,7 +32,7 @@ public class AssKick extends Activity
         getMenuInflater().inflate(R.menu.activity_main, menu);
         return true;
     }
-    
+
     public void semesterWindow(View view)
     {
     	Intent semester = new Intent(this, Semester.class);

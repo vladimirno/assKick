@@ -60,7 +60,7 @@
         android:layout_alignRight="@+id/enter_course"
         android:layout_below="@+id/TextView03"
         android:visibility="invisible" 
-        android:onClick="addEx" />
+        android:onClick="addEx1" />
 
     <Button
         android:id="@+id/button2"
@@ -70,7 +70,7 @@
         android:layout_alignRight="@+id/button1"
         android:layout_below="@+id/button1"
         android:visibility="invisible" 
-        android:onClick="addEx" />
+        android:onClick="addEx2" />
 
     <Button
         android:id="@+id/button3"
@@ -80,7 +80,7 @@
         android:layout_below="@+id/button2"
         android:layout_toLeftOf="@+id/TextView03"
         android:visibility="invisible" 
-        android:onClick="addEx" />
+        android:onClick="addEx3" />
 
     <Button
         android:id="@+id/button4"
@@ -90,7 +90,7 @@
         android:layout_alignRight="@+id/button3"
         android:layout_below="@+id/button3"
         android:visibility="invisible" 
-        android:onClick="addEx" />
+        android:onClick="addEx4" />
 
     <Button
         android:id="@+id/button5"
@@ -100,7 +100,7 @@
         android:layout_alignRight="@+id/button4"
         android:layout_below="@+id/button4"
         android:visibility="invisible" 
-        android:onClick="addEx" />
+        android:onClick="addEx5" />
 
     <Button
         android:id="@+id/button6"
@@ -110,7 +110,7 @@
         android:layout_alignRight="@+id/button5"
         android:layout_below="@+id/button5"
         android:visibility="invisible" 
-        android:onClick="addEx" />
+        android:onClick="addEx6" />
 
     <Button
         android:id="@+id/button7"
@@ -120,7 +120,7 @@
         android:layout_alignRight="@+id/button6"
         android:layout_below="@+id/button6"
         android:visibility="invisible" 
-        android:onClick="addEx" />
+        android:onClick="addEx7" />
 
     <Button
         android:id="@+id/button8"
@@ -130,7 +130,7 @@
         android:layout_alignRight="@+id/button7"
         android:layout_below="@+id/button7"
         android:visibility="invisible" 
-        android:onClick="addEx" />
+        android:onClick="addEx8" />
 
     <Button
         android:id="@+id/button9"
@@ -140,7 +140,7 @@
         android:layout_alignRight="@+id/button8"
         android:layout_below="@+id/button8"
         android:visibility="invisible" 
-        android:onClick="addEx" />
+        android:onClick="addEx9" />
 
     <Button
         android:id="@+id/button10"
@@ -150,7 +150,7 @@
         android:layout_below="@+id/button9"
         android:layout_toLeftOf="@+id/addCourse"
         android:visibility="invisible" 
-        android:onClick="addEx" />
+        android:onClick="addEx10" />
 
     <Button
         android:id="@+id/button11"
@@ -160,7 +160,7 @@
         android:layout_alignRight="@+id/button10"
         android:layout_below="@+id/button10"
         android:visibility="invisible" 
-        android:onClick="addEx" />
+        android:onClick="addEx11" />
 
     <Button
         android:id="@+id/button12"
@@ -170,7 +170,7 @@
         android:layout_alignRight="@+id/button11"
         android:layout_below="@+id/button11"
         android:visibility="invisible" 
-        android:onClick="addEx" />
+        android:onClick="addEx12" />
     
 
 </RelativeLayout>

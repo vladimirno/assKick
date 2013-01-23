@@ -12,7 +12,11 @@
     <string name="courses">Courses</string>
     <string name="add_course">Add Course</string>
     <string name="enter_course">Enter Course Name</string>
-    <string name="title_activity_course_intent">CourseIntent</string>
-    <string name="title_activity_date">Date</string>
+    <string name="enter_num_of_ex">Please Enter The Number Of Exercise</string>
+    <string name="ex">Exercise</string>
+    <string name="Submit">Submit</string>
+    <string name="press_ex">Press on ex number to enter a date</string>
+    <string name="add_date">Add Date</string>
+    <string name="deleteAll">Delete all data of the semester</string>
 
 </resources>

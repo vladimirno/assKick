@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.asskick"
-    android:versionCode="1"
-    android:versionName="1.0" >
+    android:versionCode="4"
+    android:versionName="1.4" >
     
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
@@ -37,20 +37,18 @@
         </activity>
         <activity
             android:name="com.asskick.CourseIntent"
-            android:label="@string/title_activity_course_intent"
+            android:label="@string/ex"
             android:parentActivityName="com.asskick.AssKick" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.asskick.AssKick" />
         </activity>
-        <activity
-            android:name="com.asskick.Date"
-            android:label="@string/title_activity_date"
-            android:parentActivityName="com.asskick.AssKick" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.asskick.AssKick" />
-        </activity>
+        
+        <uses-library android:name="android.test.runner"/>
     </application>
 
+	<instrumentation android:label="All Tests"
+	    android:name="com.AssTest.MyInstrumentationTestRunner"
+	    android:targetPackage="com.asskick"/>
+    
 </manifest>

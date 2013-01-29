@@ -42,17 +42,17 @@ you can also find explanations about the code in our wiki page.
 ### How to compile the project?
 Our project is built with java language, for compiling the project you need to follow the next steps:
 
-    1) Download eclipse JUNO 4.2 or higher.
-    2) Download the SDK Manager for android from http://developer.android.com/sdk/index.html
-    3) Install the SDK for android from the SDK Manager (API 2.2 and higher).
-    4) Install the ADT plugin on your eclipse.
+* __1)__ Download eclipse JUNO 4.2 or higher.
+* __2)__ Download the SDK Manager for android from http://developer.android.com/sdk/index.html
+* __3)__ Install the SDK for android from the SDK Manager (API 2.2 and higher).
+* __4)__ Install the ADT plugin on your eclipse.
        (see here how to install the ADT plugin on your eclipse: http://developer.android.com/tools/sdk/eclipse-adt.html)
-    5) Create an simulator from the AVD Manager that you downloaded with the SDK Manager if you don't have an android device.
-    6) Download EGit:
+* __5)__ Create an simulator from the AVD Manager that you downloaded with the SDK Manager if you don't have an android device.
+* __6)__ Download EGit:
     Open eclipse. If EGit is not installed on your eclipse version, do the following:
     go to Help > Install New Software… > Add… , in the location field type http://download.eclipse.org/egit/updates, and in the Name field type EGit.
     Hit Ok and start downloading!
-    7) after you downloaded the source code of the project you can compile it by pressing the play button and see the result on your device or simulator!!
+* __7)__ after you downloaded the source code of the project you can compile it by pressing the play button and see the result on your device or simulator!!
 
 ### How to prepare a new version?
 Each new version will be published in a new folder with the new version number.

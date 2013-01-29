@@ -8,30 +8,30 @@ A.S.S Kick
 Assignment Schedualer for Students.
 The assignment schedualer that organise for you the day.
 
-By:
+__By__:
 Vladimir Novikov 
 Tamar Litvak   
 Tzvika Yamin	 
 
-Follow us:
+__Follow us__:
 
-    [Source Code] (https://github.com/litvak/assKick/tree/master/Code)
+-   [Source Code] (https://github.com/litvak/assKick/tree/master/Code)
 
-    Wiki Page
+-    [Wiki Page](https://github.com/litvak/assKick/wiki)
 
-    Iteration 0
+-    [Iteration 0](https://github.com/litvak/assKick/wiki/Milestone0-ZFR)
 
-    Iteration 1
+-    [Iteration 1](https://github.com/litvak/assKick/wiki/Iteration1-Minimum-Valubale-Product)
     
-    Iteration 2
+-    [Iteration 2](https://github.com/litvak/assKick/wiki/Iteration-2-TDD)
     
-    Iteration 3
+-    [Iteration 3](https://github.com/litvak/assKick/wiki/Iteration-3-Refactoring)
     
-    Iteration 4
+-    [Iteration 4](https://github.com/litvak/assKick/wiki/Iteration-4-codereview)
 
-Development Documentation for A.S.S Kick:
+## Development Documentation for A.S.S Kick:
 
-How to get the code?
+### How to get the code?
 
 The source code is available in the project page in the repository.
 
@@ -39,7 +39,7 @@ For you to understend better the code:
 There are documentations in the classes about the classes, functions and variables.
 you can also find explanations about the code in our wiki page.
 
-How to compile the project?
+### How to compile the project?
 Our project is built with java language, for compiling the project you need to follow the next steps:
 
     1) Download eclipse JUNO 4.2 or higher.
@@ -54,17 +54,17 @@ Our project is built with java language, for compiling the project you need to f
     Hit Ok and start downloading!
     7) after you downloaded the source code of the project you can compile it by pressing the play button and see the result on your device or simulator!!
 
-How to prepare a new version?
+### How to prepare a new version?
 Each new version will be published in a new folder with the new version number.
 The new versions will be with the resolved bugs of the earlier versions and with new features.
 
 In bug Report on our wiki page you can find the list of bugs that have been solved and bugs that we need to work on.
 Also you can add in this list bugs that you have found, we will appritiate it.
 
-Project License:
+### Project License:
 Developed from Android platforms, the app will have "Google Play Licensing".
 
-Project design:
+### Project design:
 Based on the Android GUI API with a 'student theme', created by team.The theme Combines grafic Icons and background images. 
 Project Testing:
 

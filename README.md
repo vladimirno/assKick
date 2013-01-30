@@ -70,4 +70,4 @@ Project Testing:
 
 Each developer writes tests as s/he code;by iteration unit testing, and according to bugs and expiriance full user flows tests. These tests will be run by someone who didn't write the code.
 
-docx form: Developer Guide 
+docx form: [Developer Guide](https://github.com/litvak/assKick/blob/master/Documents/AssKick_Development_Documentation.docx)

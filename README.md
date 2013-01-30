@@ -19,15 +19,15 @@ __Follow us__:
 
 -    [Wiki Page](https://github.com/litvak/assKick/wiki)
 
--    [Iteration 0](https://github.com/litvak/assKick/wiki/Milestone0-ZFR)
+-    [Iteration 0](https://github.com/litvak/assKick/blob/master/Documents/ZFR%20Survey.docx)
 
--    [Iteration 1](https://github.com/litvak/assKick/wiki/Iteration1-Minimum-Valubale-Product)
+-    [Iteration 1](https://github.com/litvak/assKick/blob/master/Documents/Iteration%201%20Summery.docx)
     
--    [Iteration 2](https://github.com/litvak/assKick/wiki/Iteration-2-TDD)
+-    [Iteration 2](https://github.com/litvak/assKick/blob/master/Documents/Iteration%202%20Summary.docx)
     
--    [Iteration 3](https://github.com/litvak/assKick/wiki/Iteration-3-Refactoring)
+-    [Iteration 3](https://github.com/litvak/assKick/blob/master/Documents/Iteration%203%20Summary.docx)
     
--    [Iteration 4](https://github.com/litvak/assKick/wiki/Iteration-4-codereview)
+-    [Iteration 4](https://github.com/litvak/assKick/blob/master/Documents/Iteration%204%20Summary.docx)
 
 ## Development Documentation for A.S.S Kick:
 
@@ -70,4 +70,4 @@ Project Testing:
 
 Each developer writes tests as s/he code;by iteration unit testing, and according to bugs and expiriance full user flows tests. These tests will be run by someone who didn't write the code.
 
-docx form: Developer Guide 
+docx form: [Developer Guide](https://github.com/litvak/assKick/blob/master/Documents/AssKick_Development_Documentation.docx)

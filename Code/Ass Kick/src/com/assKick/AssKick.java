@@ -39,6 +39,7 @@ public class AssKick extends Activity
 		DeleteRecursive(file);
     }
     
+    //delete all the files that the app is creating
     void DeleteRecursive(File fileOrDirectory) 
     {
         if (fileOrDirectory.isDirectory())

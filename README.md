@@ -19,15 +19,15 @@ __Follow us__:
 
 -    [Wiki Page](https://github.com/litvak/assKick/wiki)
 
--    [Iteration 0](https://github.com/litvak/assKick/blob/master/Documents/ZFR%20Survey.docx)
+-    [Iteration 0](https://github.com/litvak/assKick/wiki/Iteration-0-ZFR)
 
--    [Iteration 1](https://github.com/litvak/assKick/blob/master/Documents/Iteration%201%20Summery.docx)
+-    [Iteration 1](https://github.com/litvak/assKick/wiki/Iteration-1-Minimum-Valubale-Product)
     
--    [Iteration 2](https://github.com/litvak/assKick/blob/master/Documents/Iteration%202%20Summary.docx)
+-    [Iteration 2](https://github.com/litvak/assKick/wiki/Iteration-2-TDD)
     
--    [Iteration 3](https://github.com/litvak/assKick/blob/master/Documents/Iteration%203%20Summary.docx)
+-    [Iteration 3](https://github.com/litvak/assKick/wiki/Iteration-3-Refactoring)
     
--    [Iteration 4](https://github.com/litvak/assKick/blob/master/Documents/Iteration%204%20Summary.docx)
+-    [Iteration 4](https://github.com/litvak/assKick/wiki/Iteration-4-codereview)
 
 ## Development Documentation for A.S.S Kick:
 

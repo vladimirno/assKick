@@ -1,3 +1,5 @@
+/*This is the course activity where we can add and manage our assignments*/
+
 package com.asskick;
 
 import java.io.BufferedReader;

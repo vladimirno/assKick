@@ -19,12 +19,6 @@ public class AssKick extends Activity
 		getActionBar().setDisplayHomeAsUpEnabled(true);
     }
 
-//	@Override
-//    protected void onStart()
-//	{
-//		File file = new File(Context.getFilesDir(), filename);
-//	}
-
     @Override
     public boolean onCreateOptionsMenu(Menu menu) 
     {

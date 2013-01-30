@@ -19,9 +19,9 @@ __Follow us__:
 
 -    [Wiki Page](https://github.com/litvak/assKick/wiki)
 
--    [Iteration 0](https://github.com/litvak/assKick/wiki/Milestone0-ZFR)
+-    [Iteration 0](https://github.com/litvak/assKick/wiki/Iteration-0-ZFR)
 
--    [Iteration 1](https://github.com/litvak/assKick/wiki/Iteration1-Minimum-Valubale-Product)
+-    [Iteration 1](https://github.com/litvak/assKick/wiki/Iteration-1-Minimum-Valubale-Product)
     
 -    [Iteration 2](https://github.com/litvak/assKick/wiki/Iteration-2-TDD)
     

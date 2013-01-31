@@ -9,9 +9,9 @@ Assignment Schedualer for Students.
 The assignment schedualer that organise for you the day.
 
 __By__:
-Vladimir Novikov 
-Tamar Litvak   
-Tzvika Yamin	 
+* Vladimir Novikov 
+* Tamar Litvak   
+* Tzvika Yamin	 
 
 __Follow us__:
 

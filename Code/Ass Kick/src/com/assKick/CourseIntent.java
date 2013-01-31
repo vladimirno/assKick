@@ -23,6 +23,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+
+//TO DO
 public class CourseIntent extends Activity 
 {
     public final static String EX_MESSAGE_2 = "com.assKick.EX_MESSAGE_2";
